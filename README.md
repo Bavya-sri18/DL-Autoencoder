@@ -151,11 +151,10 @@ def visualize_denoising(model, loader, num_images=10):
 
 ![DL](https://github.com/Bavya-sri18/DL-Autoencoder/blob/main/DL%20-%207-1.png?raw=true)
 
-### Training loss
 
 ## Original vs Noisy Vs Reconstructed Image
 
-
+![DL-1](https://github.com/Bavya-sri18/DL-Autoencoder/blob/main/DL%20-%207.png?raw=true)
 
 ## RESULT
 The convolutional autoencoder was successfully trained to denoise MNIST digit images. The model effectively reconstructed clean images from their noisy versions, demonstrating its capability in feature extraction and noise reduction.

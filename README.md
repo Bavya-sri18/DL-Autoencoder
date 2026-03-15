@@ -149,6 +149,7 @@ def visualize_denoising(model, loader, num_images=10):
 
 ### Model Summary
 
+![DL](https://github.com/Bavya-sri18/DL-Autoencoder/blob/main/DL%20-%207-1.png?raw=true)
 
 ### Training loss
 
